@@ -17,9 +17,9 @@
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-	  "url": "published https"
+	  "url": "https://thomaswoods25.github.io/Object-Oriented-Programming-Challenge-Team-Profile-Generator/"
 	},
-	"homepage": "read me https",
+	"homepage": "https://github.com/thomaswoods25/Object-Oriented-Programming-Challenge-Team-Profile-Generator/blob/main/README.MD",
 	"dependencies": {
 	  "inquirer": "^6.3.1"
 	},
